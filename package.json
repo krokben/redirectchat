@@ -1,0 +1,11 @@
+{
+  "name": "redirectchat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/krokben/redirectchat",
+  "author": "Tommy Svensson <tommykajsvensson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
