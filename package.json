@@ -5,7 +5,14 @@
   "repository": "https://github.com/krokben/redirectchat",
   "author": "Tommy Svensson <tommykajsvensson@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index",
+    "start": "node index"
+  },
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
   }
 }
